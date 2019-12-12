@@ -28,18 +28,17 @@ top:0;
 position:absolute;
 border-radius:5px 0 0 5px;
 }
-
 .mbl_player {
-font-size:15px!important;
-font-family:'Open Sans', Helvetica, Arial, sans-serif;
-color:#fff;
-position:relative;
-width:100%;
-box-shadow:0 0 20px 0 rgba(0,0,0,0.5);
-height:328px;
-border:1px solid #000;
-border-radius:3px;
-background:url(http://1.bp.blogspot.com/-qJZDxhaB8Sc/UcCXTbGWwrI/AAAAAAAABn8/5sKGbTZoVXA/s1600/playlist_bg.png) 0 0 repeat;
+    font-size: 15px!important;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    color: #fff;
+    position: initial;
+    width: 100%;
+    /* box-shadow: 0 0 20px 0 rgba(0,0,0,0.5); */
+    height: 600px;
+    border: 1px solid #000;
+    /* border-radius: 3px; */
+    background: url(http://1.bp.blogspot.com/-qJZDxhaB8Sc/UcCXTbGWwrI/AAAAAAAABn8/5sKGbTZoVXA/s1600/playlist_bg.png) 0 0 repeat;
 }
 
 .mbl_player .mnpl_toolbar {
