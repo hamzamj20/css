@@ -201,12 +201,13 @@ background:url(http://1.bp.blogspot.com/-4esYzL3RylI/UcCXA5aXIgI/AAAAAAAABn0/xJ6
 }
 
 .mbl_playlist span {
-display:block;
-border-bottom:1px solid #575555;
-cursor:pointer;
-font-size:80%;
-opacity:0.8;
-padding:5px 20px;
+    display: block;
+    border-bottom: 1px solid #575555;
+    cursor: pointer;
+    font-size: 100%;
+    opacity: 0.8;
+    padding: 5px 20px;
+    font-weight: bold;
 }
 
 ::-webkit-scrollbar {
