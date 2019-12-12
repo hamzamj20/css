@@ -114,17 +114,17 @@ padding:10px 0 0;
 }
 
 .mbl_player .mbl_art_bg {
-position:absolute;
-width:auto;
-height:auto;
-opacity:0.3;
-left:0;
-right:0;
-bottom:31px;
-top:0;
-background-repeat:no-repeat;
-background-position:center top;
-background-size:100% auto;
+    position: absolute;
+    width: auto;
+    height: 150px;
+    opacity: 0.3;
+    left: 0;
+    right: 0;
+    bottom: 31px;
+    top: 0;
+    background-repeat: no-repeat;
+    background-position: center top;
+    background-size: 100% auto;
 }
 
 .mbl_player .mbl_cover {
