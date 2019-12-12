@@ -192,15 +192,15 @@ background:url(http://1.bp.blogspot.com/-4esYzL3RylI/UcCXA5aXIgI/AAAAAAAABn0/xJ6
 }
 
 .mbl_playlist {
-background:url(http://1.bp.blogspot.com/-qJZDxhaB8Sc/UcCXTbGWwrI/AAAAAAAABn8/5sKGbTZoVXA/s1600/playlist_bg.png) 0 0 repeat;
-overflow-y:auto;
-position:absolute;
-width:auto;
-height:149px;
-border-top:1px solid #000;
-bottom:0;
-left:0;
-right:0;
+    background: url(http://1.bp.blogspot.com/-qJZDxhaB8Sc/UcCXTbGWwrI/AAAAAAAABn8/5sKGbTZoVXA/s1600/playlist_bg.png) 0 0 repeat;
+    overflow-y: auto;
+    position: absolute;
+    width: auto;
+    height: 149px;
+    border-top: 1px solid #000;
+    bottom: 0;
+    left: 0;
+    right: 0;
 }
 
 .mbl_playlist span {
